@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#alert {
+  background-color: #6d6d7a;
+  color: white;
+  padding: 12px;
+  margin: 24px 0;
+  border-radius: 6px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+body {
+  color: #2a2d48;
+  font-family: "Poppins", sans-serif;
+}
+
+.course h3 {
+  margin: 8px 0;
+}
+
+.header {
+  display: block;
+  padding: 18px 42px;
+  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 12%),
+    0px 4px 5px 0px rgb(0 0 0 / 12%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+
+.mainsite {
+  width: 80%;
+  margin: auto;
+}
+
+#site-title {
+  display: inline-block;
+}
+
+.header-link {
+  margin: 16px;
+  text-decoration: none;
+  color: #2c2b47;
+}
+
+.course {
+  border: 2px solid #e5e5e5;
+  background-color: #fbfbfb62;
+  padding: 12px 18px;
+  border-radius: 12px;
+  margin: 24px 0;
+}
+
+.course ul {
+  list-style-position: inside;
+}
